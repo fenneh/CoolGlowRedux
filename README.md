@@ -1,6 +1,6 @@
-# Cool Glow: Reborn
+# Cool Glow Redux
 
-A World of Warcraft addon that allows customization of action button proc glows.
+A World of Warcraft addon that allows customization of action button proc glows. Because the default blizzard one makes me want to blow chunks.
 
 ## Features
 - Customize the appearance of action button glows
@@ -15,10 +15,8 @@ A World of Warcraft addon that allows customization of action button proc glows.
 ## Credits
 ### Original Author
 - [Klix](https://www.curseforge.com/wow/addons/cool-glow) - Created the original Cool Glow addon
+- [Unhalted](https://github.com/DaleHuntGB/CoolGlow) - A previous working unpublished patch/fork
 
-### Current Maintainers
-- Fen - Current maintainer, code cleanup and modernization
-- Unhalted - Contributor, original Redux version
 
 ### Libraries
 - LibStub
@@ -35,10 +33,3 @@ A World of Warcraft addon that allows customization of action button proc glows.
 - LibCustomGlow-1.0
 - LibDataBroker-1.1
 - LibDBIcon-1.0
-
-## License
-This addon is a fork of the original Cool Glow addon by Klix. All rights reserved by respective authors.
-
-## Links
-- [Original Addon on CurseForge](https://www.curseforge.com/wow/addons/cool-glow)
-- [Original Source Code](https://github.com/DaleHuntGB/CoolGlow)
