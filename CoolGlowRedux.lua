@@ -272,7 +272,7 @@ local function tooltip_draw()
 	local tooltip = GameTooltip;
 	-- build the tooltip
 	tooltip:ClearLines()
-	tooltip:AddDoubleLine(CG.addonName.." Redux", "v"..CG.version, 0.95, 0.95, 0.32, 0.95, 0.95, 0.32)
+	tooltip:AddDoubleLine(CG.addonName.."", "v"..CG.version, 0.95, 0.95, 0.32, 0.95, 0.95, 0.32)
 	tooltip:AddLine(" ")
 	tooltip:AddLine("|c"..RAID_CLASS_COLORS[MyClass].colorStr..L["Left-Click|r to open the option settings."], 0.95, 0.95, 0.32)
 	tooltip:AddLine("|c"..RAID_CLASS_COLORS[MyClass].colorStr..L["Right-Click|r to display the current proc glow."], 0.95, 0.95, 0.32)
