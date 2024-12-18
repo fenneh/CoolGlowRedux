@@ -1,4 +1,4 @@
-## Interface: 100205
+## Interface: 110007
 ## Author: fenneh, Unhalted, Original: |cFFf960d9Klix|r.
 ## Version: 1.0
 ## Title: CoolGlow|cFF8080FFRedux|r
