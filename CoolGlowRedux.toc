@@ -1,10 +1,12 @@
 ## Interface: 110007
 ## Author: fenneh, Unhalted, Original: |cFFf960d9Klix|r.
-## Version: 1.0
+## Version: 1.0.1
 ## Title: CoolGlow|cFF8080FFRedux|r
 ## Notes: Allows customization of action button glows.
 ## SavedVariables: CoolGlowReduxDB
 ## SavedVariablesPerCharacter: CoolGlowReduxPerCharDB
+## X-Curse-Project-ID: 1161682
+
 libs\load_libs.xml
 locales\load_locales.xml
 CoolGlowRedux.lua

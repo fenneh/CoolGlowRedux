@@ -1,0 +1,11 @@
+package-as: CoolGlowRedux
+enable-nolib-creation: no
+
+ignore:
+    - README.md
+    - .git
+    - .gitignore
+    - .vscode
+    - pkgmeta.yaml
+
+license-output: LICENSE.txt
