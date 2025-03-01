@@ -7,5 +7,6 @@ ignore:
     - .gitignore
     - .vscode
     - pkgmeta.yaml
+    - release.ps1
 
 license-output: LICENSE.txt
